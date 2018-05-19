@@ -1,0 +1,431 @@
+-- Merging decision tree log ---
+manifest
+ADDED from C:\Users\user\Downloads\mysampleapp\MySampleApp\app\src\main\AndroidManifest.xml:3:40-140:10
+INJECTED from C:\Users\user\Downloads\mysampleapp\MySampleApp\app\src\main\AndroidManifest.xml:3:40-140:10
+INJECTED from C:\Users\user\Downloads\mysampleapp\MySampleApp\app\src\main\AndroidManifest.xml:3:40-140:10
+INJECTED from C:\Users\user\Downloads\mysampleapp\MySampleApp\app\src\main\AndroidManifest.xml:3:40-140:10
+MERGED from [com.android.support:design:27.1.1] C:\Users\user\.gradle\caches\transforms-1\files-1.1\design-27.1.1.aar\2c9246f7a94a03ea69d87aaaba0f9e6a\AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:appcompat-v7:27.1.1] C:\Users\user\.gradle\caches\transforms-1\files-1.1\appcompat-v7-27.1.1.aar\cf56077f2cc6d3c456fbf9a7dbdeb69d\AndroidManifest.xml:17:1-22:12
+MERGED from [com.amazonaws:aws-android-sdk-auth-ui:2.6.19] C:\Users\user\.gradle\caches\transforms-1\files-1.1\aws-android-sdk-auth-ui-2.6.19.aar\d0b493023f8c99c6764e8f3ec6872656\AndroidManifest.xml:2:1-10:80
+MERGED from [com.amazonaws:aws-android-sdk-auth-userpools:2.6.19] C:\Users\user\.gradle\caches\transforms-1\files-1.1\aws-android-sdk-auth-userpools-2.6.19.aar\038035498ac709a67a146daf171f8658\AndroidManifest.xml:2:1-21:80
+MERGED from [com.amazonaws:aws-android-sdk-auth-core:2.6.19] C:\Users\user\.gradle\caches\transforms-1\files-1.1\aws-android-sdk-auth-core-2.6.19.aar\cdfe8e1bfa2e64f2ac2463a60d8ff69e\AndroidManifest.xml:2:1-4:80
+MERGED from [com.android.support.constraint:constraint-layout:1.0.0-beta3] C:\Users\user\.gradle\caches\transforms-1\files-1.1\constraint-layout-1.0.0-beta3.aar\f8a56ed3d5b303c6e35364185ef61c55\AndroidManifest.xml:2:1-11:12
+MERGED from [com.facebook.android:facebook-android-sdk:4.12.0] C:\Users\user\.gradle\caches\transforms-1\files-1.1\facebook-android-sdk-4.12.0.aar\9efd1ec308273c01ad1c0324fae10d1d\AndroidManifest.xml:21:1-39:12
+MERGED from [com.android.support:multidex:1.0.0] C:\Users\user\.gradle\caches\transforms-1\files-1.1\multidex-1.0.0.aar\564d74900a5dcf298628c98baf2869dd\AndroidManifest.xml:16:1-19:12
+MERGED from [com.android.support:customtabs:23.4.0] C:\Users\user\.gradle\caches\transforms-1\files-1.1\customtabs-23.4.0.aar\ebd5512ff8754678dfff1e148a739fd2\AndroidManifest.xml:17:1-24:12
+MERGED from [com.android.support:support-v4:27.1.1] C:\Users\user\.gradle\caches\transforms-1\files-1.1\support-v4-27.1.1.aar\0e8ad38cae2a4c22b85565255f5b5246\AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:recyclerview-v7:27.1.1] C:\Users\user\.gradle\caches\transforms-1\files-1.1\recyclerview-v7-27.1.1.aar\ef35e71757dd885ad567e53f194e7ff8\AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:support-fragment:27.1.1] C:\Users\user\.gradle\caches\transforms-1\files-1.1\support-fragment-27.1.1.aar\119c914806b860598ecde6cbb58397ad\AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:animated-vector-drawable:27.1.1] C:\Users\user\.gradle\caches\transforms-1\files-1.1\animated-vector-drawable-27.1.1.aar\59e3af873cde5acf77e04f836ea32a6d\AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:support-core-ui:27.1.1] C:\Users\user\.gradle\caches\transforms-1\files-1.1\support-core-ui-27.1.1.aar\aaef6ac7fdc8b6d7bbd028989039b672\AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:support-core-utils:27.1.1] C:\Users\user\.gradle\caches\transforms-1\files-1.1\support-core-utils-27.1.1.aar\625f02b169c553c2881501a9c2606fdf\AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:support-vector-drawable:27.1.1] C:\Users\user\.gradle\caches\transforms-1\files-1.1\support-vector-drawable-27.1.1.aar\7a0a088a43b716dbd356f3741612829c\AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:transition:27.1.1] C:\Users\user\.gradle\caches\transforms-1\files-1.1\transition-27.1.1.aar\36738f64cc07e507231bf898b507bb6b\AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:support-media-compat:27.1.1] C:\Users\user\.gradle\caches\transforms-1\files-1.1\support-media-compat-27.1.1.aar\08b2eaf5ead399b3b08d785e4b921588\AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:support-compat:27.1.1] C:\Users\user\.gradle\caches\transforms-1\files-1.1\support-compat-27.1.1.aar\69c8a01e351b3cdf15ef7d6b38246683\AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:cardview-v7:23.4.0] C:\Users\user\.gradle\caches\transforms-1\files-1.1\cardview-v7-23.4.0.aar\b853ac3c88ee064df21f5b6df46600cb\AndroidManifest.xml:17:1-24:12
+MERGED from [android.arch.lifecycle:livedata-core:1.1.0] C:\Users\user\.gradle\caches\transforms-1\files-1.1\livedata-core-1.1.0.aar\a2bcb0e143df43c8d9dfb3742a8ce999\AndroidManifest.xml:17:1-22:12
+MERGED from [android.arch.lifecycle:viewmodel:1.1.0] C:\Users\user\.gradle\caches\transforms-1\files-1.1\viewmodel-1.1.0.aar\9db486922b80844413df8a1b9da9c958\AndroidManifest.xml:17:1-22:12
+MERGED from [android.arch.lifecycle:runtime:1.1.0] C:\Users\user\.gradle\caches\transforms-1\files-1.1\runtime-1.1.0.aar\c192f6414ff96e7728308781374746bc\AndroidManifest.xml:17:1-22:12
+MERGED from [android.arch.core:runtime:1.1.0] C:\Users\user\.gradle\caches\transforms-1\files-1.1\runtime-1.1.0.aar\aa525f0a46f204c73639797e7f7cee74\AndroidManifest.xml:17:1-22:12
+INJECTED from C:\Users\user\Downloads\mysampleapp\MySampleApp\app\src\main\AndroidManifest.xml:3:40-140:10
+INJECTED from C:\Users\user\Downloads\mysampleapp\MySampleApp\app\src\main\AndroidManifest.xml:3:40-140:10
+INJECTED from C:\Users\user\Downloads\mysampleapp\MySampleApp\app\src\main\AndroidManifest.xml:3:40-140:10
+	package
+		ADDED from C:\Users\user\Downloads\mysampleapp\MySampleApp\app\src\main\AndroidManifest.xml:3:113-138
+		INJECTED from C:\Users\user\Downloads\mysampleapp\MySampleApp\app\src\main\AndroidManifest.xml
+		INJECTED from C:\Users\user\Downloads\mysampleapp\MySampleApp\app\src\main\AndroidManifest.xml
+	android:versionName
+		INJECTED from C:\Users\user\Downloads\mysampleapp\MySampleApp\app\src\main\AndroidManifest.xml
+		ADDED from C:\Users\user\Downloads\mysampleapp\MySampleApp\app\src\main\AndroidManifest.xml:3:40-140:10
+		INJECTED from C:\Users\user\Downloads\mysampleapp\MySampleApp\app\src\main\AndroidManifest.xml
+	android:versionCode
+		INJECTED from C:\Users\user\Downloads\mysampleapp\MySampleApp\app\src\main\AndroidManifest.xml
+		ADDED from C:\Users\user\Downloads\mysampleapp\MySampleApp\app\src\main\AndroidManifest.xml:3:40-140:10
+		INJECTED from C:\Users\user\Downloads\mysampleapp\MySampleApp\app\src\main\AndroidManifest.xml
+	xmlns:android
+		ADDED from C:\Users\user\Downloads\mysampleapp\MySampleApp\app\src\main\AndroidManifest.xml:3:50-108
+uses-permission#android.permission.INTERNET
+ADDED from C:\Users\user\Downloads\mysampleapp\MySampleApp\app\src\main\AndroidManifest.xml:5:145-65
+MERGED from [com.amazonaws:aws-android-sdk-auth-ui:2.6.19] C:\Users\user\.gradle\caches\transforms-1\files-1.1\aws-android-sdk-auth-ui-2.6.19.aar\d0b493023f8c99c6764e8f3ec6872656\AndroidManifest.xml:4:5-66
+MERGED from [com.amazonaws:aws-android-sdk-auth-ui:2.6.19] C:\Users\user\.gradle\caches\transforms-1\files-1.1\aws-android-sdk-auth-ui-2.6.19.aar\d0b493023f8c99c6764e8f3ec6872656\AndroidManifest.xml:4:5-66
+MERGED from [com.amazonaws:aws-android-sdk-auth-userpools:2.6.19] C:\Users\user\.gradle\caches\transforms-1\files-1.1\aws-android-sdk-auth-userpools-2.6.19.aar\038035498ac709a67a146daf171f8658\AndroidManifest.xml:4:5-66
+MERGED from [com.amazonaws:aws-android-sdk-auth-userpools:2.6.19] C:\Users\user\.gradle\caches\transforms-1\files-1.1\aws-android-sdk-auth-userpools-2.6.19.aar\038035498ac709a67a146daf171f8658\AndroidManifest.xml:4:5-66
+	android:name
+		ADDED from C:\Users\user\Downloads\mysampleapp\MySampleApp\app\src\main\AndroidManifest.xml:5:162-204
+uses-permission#android.permission.ACCESS_NETWORK_STATE
+ADDED from C:\Users\user\Downloads\mysampleapp\MySampleApp\app\src\main\AndroidManifest.xml:6:212-78
+MERGED from [com.amazonaws:aws-android-sdk-auth-ui:2.6.19] C:\Users\user\.gradle\caches\transforms-1\files-1.1\aws-android-sdk-auth-ui-2.6.19.aar\d0b493023f8c99c6764e8f3ec6872656\AndroidManifest.xml:5:5-78
+MERGED from [com.amazonaws:aws-android-sdk-auth-ui:2.6.19] C:\Users\user\.gradle\caches\transforms-1\files-1.1\aws-android-sdk-auth-ui-2.6.19.aar\d0b493023f8c99c6764e8f3ec6872656\AndroidManifest.xml:5:5-78
+MERGED from [com.amazonaws:aws-android-sdk-auth-userpools:2.6.19] C:\Users\user\.gradle\caches\transforms-1\files-1.1\aws-android-sdk-auth-userpools-2.6.19.aar\038035498ac709a67a146daf171f8658\AndroidManifest.xml:5:5-78
+MERGED from [com.amazonaws:aws-android-sdk-auth-userpools:2.6.19] C:\Users\user\.gradle\caches\transforms-1\files-1.1\aws-android-sdk-auth-userpools-2.6.19.aar\038035498ac709a67a146daf171f8658\AndroidManifest.xml:5:5-78
+	android:name
+		ADDED from C:\Users\user\Downloads\mysampleapp\MySampleApp\app\src\main\AndroidManifest.xml:6:229-283
+uses-permission#android.permission.ACCESS_WIFI_STATE
+ADDED from C:\Users\user\Downloads\mysampleapp\MySampleApp\app\src\main\AndroidManifest.xml:7:291-75
+MERGED from [com.amazonaws:aws-android-sdk-auth-userpools:2.6.19] C:\Users\user\.gradle\caches\transforms-1\files-1.1\aws-android-sdk-auth-userpools-2.6.19.aar\038035498ac709a67a146daf171f8658\AndroidManifest.xml:6:5-75
+MERGED from [com.amazonaws:aws-android-sdk-auth-userpools:2.6.19] C:\Users\user\.gradle\caches\transforms-1\files-1.1\aws-android-sdk-auth-userpools-2.6.19.aar\038035498ac709a67a146daf171f8658\AndroidManifest.xml:6:5-75
+	android:name
+		ADDED from C:\Users\user\Downloads\mysampleapp\MySampleApp\app\src\main\AndroidManifest.xml:7:308-359
+uses-permission#android.permission.WAKE_LOCK
+ADDED from C:\Users\user\Downloads\mysampleapp\MySampleApp\app\src\main\AndroidManifest.xml:8:367-67
+	android:name
+		ADDED from C:\Users\user\Downloads\mysampleapp\MySampleApp\app\src\main\AndroidManifest.xml:8:384-427
+uses-permission#android.permission.READ_EXTERNAL_STORAGE
+ADDED from C:\Users\user\Downloads\mysampleapp\MySampleApp\app\src\main\AndroidManifest.xml:9:435-79
+	android:name
+		ADDED from C:\Users\user\Downloads\mysampleapp\MySampleApp\app\src\main\AndroidManifest.xml:9:452-507
+application
+ADDED from C:\Users\user\Downloads\mysampleapp\MySampleApp\app\src\main\AndroidManifest.xml:16:516-138:18
+MERGED from [com.amazonaws:aws-android-sdk-auth-ui:2.6.19] C:\Users\user\.gradle\caches\transforms-1\files-1.1\aws-android-sdk-auth-ui-2.6.19.aar\d0b493023f8c99c6764e8f3ec6872656\AndroidManifest.xml:7:5-9:19
+MERGED from [com.amazonaws:aws-android-sdk-auth-ui:2.6.19] C:\Users\user\.gradle\caches\transforms-1\files-1.1\aws-android-sdk-auth-ui-2.6.19.aar\d0b493023f8c99c6764e8f3ec6872656\AndroidManifest.xml:7:5-9:19
+MERGED from [com.amazonaws:aws-android-sdk-auth-userpools:2.6.19] C:\Users\user\.gradle\caches\transforms-1\files-1.1\aws-android-sdk-auth-userpools-2.6.19.aar\038035498ac709a67a146daf171f8658\AndroidManifest.xml:8:6-20:20
+MERGED from [com.amazonaws:aws-android-sdk-auth-userpools:2.6.19] C:\Users\user\.gradle\caches\transforms-1\files-1.1\aws-android-sdk-auth-userpools-2.6.19.aar\038035498ac709a67a146daf171f8658\AndroidManifest.xml:8:6-20:20
+MERGED from [com.android.support.constraint:constraint-layout:1.0.0-beta3] C:\Users\user\.gradle\caches\transforms-1\files-1.1\constraint-layout-1.0.0-beta3.aar\f8a56ed3d5b303c6e35364185ef61c55\AndroidManifest.xml:9:5-20
+MERGED from [com.android.support.constraint:constraint-layout:1.0.0-beta3] C:\Users\user\.gradle\caches\transforms-1\files-1.1\constraint-layout-1.0.0-beta3.aar\f8a56ed3d5b303c6e35364185ef61c55\AndroidManifest.xml:9:5-20
+MERGED from [com.facebook.android:facebook-android-sdk:4.12.0] C:\Users\user\.gradle\caches\transforms-1\files-1.1\facebook-android-sdk-4.12.0.aar\9efd1ec308273c01ad1c0324fae10d1d\AndroidManifest.xml:28:5-37:19
+MERGED from [com.facebook.android:facebook-android-sdk:4.12.0] C:\Users\user\.gradle\caches\transforms-1\files-1.1\facebook-android-sdk-4.12.0.aar\9efd1ec308273c01ad1c0324fae10d1d\AndroidManifest.xml:28:5-37:19
+MERGED from [com.android.support:customtabs:23.4.0] C:\Users\user\.gradle\caches\transforms-1\files-1.1\customtabs-23.4.0.aar\ebd5512ff8754678dfff1e148a739fd2\AndroidManifest.xml:22:5-20
+MERGED from [com.android.support:customtabs:23.4.0] C:\Users\user\.gradle\caches\transforms-1\files-1.1\customtabs-23.4.0.aar\ebd5512ff8754678dfff1e148a739fd2\AndroidManifest.xml:22:5-20
+MERGED from [com.android.support:cardview-v7:23.4.0] C:\Users\user\.gradle\caches\transforms-1\files-1.1\cardview-v7-23.4.0.aar\b853ac3c88ee064df21f5b6df46600cb\AndroidManifest.xml:22:5-20
+MERGED from [com.android.support:cardview-v7:23.4.0] C:\Users\user\.gradle\caches\transforms-1\files-1.1\cardview-v7-23.4.0.aar\b853ac3c88ee064df21f5b6df46600cb\AndroidManifest.xml:22:5-20
+	android:supportsRtl
+		ADDED from [com.amazonaws:aws-android-sdk-auth-ui:2.6.19] C:\Users\user\.gradle\caches\transforms-1\files-1.1\aws-android-sdk-auth-ui-2.6.19.aar\d0b493023f8c99c6764e8f3ec6872656\AndroidManifest.xml:7:18-44
+	android:label
+		ADDED from C:\Users\user\Downloads\mysampleapp\MySampleApp\app\src\main\AndroidManifest.xml:16:652-684
+	android:icon
+		ADDED from C:\Users\user\Downloads\mysampleapp\MySampleApp\app\src\main\AndroidManifest.xml:16:608-643
+	android:allowBackup
+		ADDED from C:\Users\user\Downloads\mysampleapp\MySampleApp\app\src\main\AndroidManifest.xml:16:573-599
+	android:theme
+		ADDED from C:\Users\user\Downloads\mysampleapp\MySampleApp\app\src\main\AndroidManifest.xml:16:693-724
+	android:name
+		ADDED from C:\Users\user\Downloads\mysampleapp\MySampleApp\app\src\main\AndroidManifest.xml:16:537-564
+activity#com.mysampleapp.MainActivity
+ADDED from C:\Users\user\Downloads\mysampleapp\MySampleApp\app\src\main\AndroidManifest.xml:20:734-26:19
+	android:label
+		ADDED from C:\Users\user\Downloads\mysampleapp\MySampleApp\app\src\main\AndroidManifest.xml:20:797-840
+	android:launchMode
+		ADDED from C:\Users\user\Downloads\mysampleapp\MySampleApp\app\src\main\AndroidManifest.xml:20:853-888
+	android:name
+		ADDED from C:\Users\user\Downloads\mysampleapp\MySampleApp\app\src\main\AndroidManifest.xml:20:756-784
+intent-filter#action:name:android.intent.action.MAIN+category:name:android.intent.category.LAUNCHER
+ADDED from C:\Users\user\Downloads\mysampleapp\MySampleApp\app\src\main\AndroidManifest.xml:21:902-25:28
+action#android.intent.action.MAIN
+ADDED from C:\Users\user\Downloads\mysampleapp\MySampleApp\app\src\main\AndroidManifest.xml:22:934-68
+	android:name
+		ADDED from C:\Users\user\Downloads\mysampleapp\MySampleApp\app\src\main\AndroidManifest.xml:22:942-983
+category#android.intent.category.LAUNCHER
+ADDED from C:\Users\user\Downloads\mysampleapp\MySampleApp\app\src\main\AndroidManifest.xml:24:1004-75
+	android:name
+		ADDED from C:\Users\user\Downloads\mysampleapp\MySampleApp\app\src\main\AndroidManifest.xml:24:1014-1061
+activity#com.mysampleapp.SplashActivity
+ADDED from C:\Users\user\Downloads\mysampleapp\MySampleApp\app\src\main\AndroidManifest.xml:30:1122-57
+	android:label
+		ADDED from C:\Users\user\Downloads\mysampleapp\MySampleApp\app\src\main\AndroidManifest.xml:30:1270-1302
+	android:configChanges
+		ADDED from C:\Users\user\Downloads\mysampleapp\MySampleApp\app\src\main\AndroidManifest.xml:30:1187-1257
+	android:name
+		ADDED from C:\Users\user\Downloads\mysampleapp\MySampleApp\app\src\main\AndroidManifest.xml:30:1144-1174
+service#com.amazonaws.mobileconnectors.s3.transferutility.TransferService
+ADDED from C:\Users\user\Downloads\mysampleapp\MySampleApp\app\src\main\AndroidManifest.xml:45:1762-38
+	android:enabled
+		ADDED from C:\Users\user\Downloads\mysampleapp\MySampleApp\app\src\main\AndroidManifest.xml:45:1876-1898
+	android:name
+		ADDED from C:\Users\user\Downloads\mysampleapp\MySampleApp\app\src\main\AndroidManifest.xml:45:1783-1863
+service#com.amazonaws.mobile.downloader.service.DownloadService
+ADDED from C:\Users\user\Downloads\mysampleapp\MySampleApp\app\src\main\AndroidManifest.xml:46:1910-90
+	android:name
+		ADDED from C:\Users\user\Downloads\mysampleapp\MySampleApp\app\src\main\AndroidManifest.xml:46:1919-1989
+receiver#com.amazonaws.mobile.downloader.service.NetworkStateListener
+ADDED from C:\Users\user\Downloads\mysampleapp\MySampleApp\app\src\main\AndroidManifest.xml:51:2002-55:19
+	android:enabled
+		ADDED from C:\Users\user\Downloads\mysampleapp\MySampleApp\app\src\main\AndroidManifest.xml:51:2112-2135
+	android:exported
+		ADDED from C:\Users\user\Downloads\mysampleapp\MySampleApp\app\src\main\AndroidManifest.xml:51:2148-2172
+	android:name
+		ADDED from C:\Users\user\Downloads\mysampleapp\MySampleApp\app\src\main\AndroidManifest.xml:51:2024-2099
+intent-filter#action:name:android.net.conn.CONNECTIVITY_CHANGE
+ADDED from C:\Users\user\Downloads\mysampleapp\MySampleApp\app\src\main\AndroidManifest.xml:52:2186-54:28
+action#android.net.conn.CONNECTIVITY_CHANGE
+ADDED from C:\Users\user\Downloads\mysampleapp\MySampleApp\app\src\main\AndroidManifest.xml:53:2218-78
+	android:name
+		ADDED from C:\Users\user\Downloads\mysampleapp\MySampleApp\app\src\main\AndroidManifest.xml:53:2226-2277
+provider#com.amazonaws.mobile.downloader.query.DownloadQueueProvider
+ADDED from C:\Users\user\Downloads\mysampleapp\MySampleApp\app\src\main\AndroidManifest.xml:61:2339-49
+	android:enabled
+		ADDED from C:\Users\user\Downloads\mysampleapp\MySampleApp\app\src\main\AndroidManifest.xml:61:2524-2546
+	android:authorities
+		ADDED from C:\Users\user\Downloads\mysampleapp\MySampleApp\app\src\main\AndroidManifest.xml:61:2448-2511
+	android:exported
+		ADDED from C:\Users\user\Downloads\mysampleapp\MySampleApp\app\src\main\AndroidManifest.xml:61:2559-2583
+	android:name
+		ADDED from C:\Users\user\Downloads\mysampleapp\MySampleApp\app\src\main\AndroidManifest.xml:61:2361-2435
+provider#android.support.v4.content.FileProvider
+ADDED from C:\Users\user\Downloads\mysampleapp\MySampleApp\app\src\main\AndroidManifest.xml:66:2604-70:19
+	android:grantUriPermissions
+		ADDED from C:\Users\user\Downloads\mysampleapp\MySampleApp\app\src\main\AndroidManifest.xml:66:2804-2838
+	android:authorities
+		ADDED from C:\Users\user\Downloads\mysampleapp\MySampleApp\app\src\main\AndroidManifest.xml:66:2693-2754
+	android:exported
+		ADDED from C:\Users\user\Downloads\mysampleapp\MySampleApp\app\src\main\AndroidManifest.xml:66:2767-2791
+	android:name
+		ADDED from C:\Users\user\Downloads\mysampleapp\MySampleApp\app\src\main\AndroidManifest.xml:66:2626-2680
+meta-data#android.support.FILE_PROVIDER_PATHS
+ADDED from C:\Users\user\Downloads\mysampleapp\MySampleApp\app\src\main\AndroidManifest.xml:69:2852-66
+	android:resource
+		ADDED from C:\Users\user\Downloads\mysampleapp\MySampleApp\app\src\main\AndroidManifest.xml:69:2946-2992
+	android:name
+		ADDED from C:\Users\user\Downloads\mysampleapp\MySampleApp\app\src\main\AndroidManifest.xml:69:2879-2929
+activity#com.mysampleapp.UserActivity
+ADDED from C:\Users\user\Downloads\mysampleapp\MySampleApp\app\src\main\AndroidManifest.xml:77:3092-59
+	android:label
+		ADDED from C:\Users\user\Downloads\mysampleapp\MySampleApp\app\src\main\AndroidManifest.xml:77:3155-3198
+	android:theme
+		ADDED from C:\Users\user\Downloads\mysampleapp\MySampleApp\app\src\main\AndroidManifest.xml:77:3211-3254
+	android:name
+		ADDED from C:\Users\user\Downloads\mysampleapp\MySampleApp\app\src\main\AndroidManifest.xml:77:3114-3142
+activity#com.mysampleapp.RegisterUser
+ADDED from C:\Users\user\Downloads\mysampleapp\MySampleApp\app\src\main\AndroidManifest.xml:80:3266-59
+	android:theme
+		ADDED from C:\Users\user\Downloads\mysampleapp\MySampleApp\app\src\main\AndroidManifest.xml:80:3329-3372
+	android:name
+		ADDED from C:\Users\user\Downloads\mysampleapp\MySampleApp\app\src\main\AndroidManifest.xml:80:3288-3316
+activity#com.mysampleapp.AboutApp
+ADDED from C:\Users\user\Downloads\mysampleapp\MySampleApp\app\src\main\AndroidManifest.xml:84:3384-59
+	android:label
+		ADDED from C:\Users\user\Downloads\mysampleapp\MySampleApp\app\src\main\AndroidManifest.xml:84:3443-3491
+	android:theme
+		ADDED from C:\Users\user\Downloads\mysampleapp\MySampleApp\app\src\main\AndroidManifest.xml:84:3504-3547
+	android:name
+		ADDED from C:\Users\user\Downloads\mysampleapp\MySampleApp\app\src\main\AndroidManifest.xml:84:3406-3430
+activity#com.mysampleapp.SignUpConfirm
+ADDED from C:\Users\user\Downloads\mysampleapp\MySampleApp\app\src\main\AndroidManifest.xml:88:3559-59
+	android:label
+		ADDED from C:\Users\user\Downloads\mysampleapp\MySampleApp\app\src\main\AndroidManifest.xml:88:3623-3677
+	android:theme
+		ADDED from C:\Users\user\Downloads\mysampleapp\MySampleApp\app\src\main\AndroidManifest.xml:88:3690-3733
+	android:name
+		ADDED from C:\Users\user\Downloads\mysampleapp\MySampleApp\app\src\main\AndroidManifest.xml:88:3581-3610
+activity#com.mysampleapp.MFAActivity
+ADDED from C:\Users\user\Downloads\mysampleapp\MySampleApp\app\src\main\AndroidManifest.xml:92:3745-59
+	android:label
+		ADDED from C:\Users\user\Downloads\mysampleapp\MySampleApp\app\src\main\AndroidManifest.xml:92:3807-3849
+	android:theme
+		ADDED from C:\Users\user\Downloads\mysampleapp\MySampleApp\app\src\main\AndroidManifest.xml:92:3862-3905
+	android:name
+		ADDED from C:\Users\user\Downloads\mysampleapp\MySampleApp\app\src\main\AndroidManifest.xml:92:3767-3794
+activity#com.mysampleapp.ForgotPasswordActivity
+ADDED from C:\Users\user\Downloads\mysampleapp\MySampleApp\app\src\main\AndroidManifest.xml:96:3917-59
+	android:label
+		ADDED from C:\Users\user\Downloads\mysampleapp\MySampleApp\app\src\main\AndroidManifest.xml:96:3990-4044
+	android:theme
+		ADDED from C:\Users\user\Downloads\mysampleapp\MySampleApp\app\src\main\AndroidManifest.xml:96:4057-4100
+	android:name
+		ADDED from C:\Users\user\Downloads\mysampleapp\MySampleApp\app\src\main\AndroidManifest.xml:96:3939-3977
+activity#com.mysampleapp.SettingsActivity
+ADDED from C:\Users\user\Downloads\mysampleapp\MySampleApp\app\src\main\AndroidManifest.xml:100:4112-59
+	android:label
+		ADDED from C:\Users\user\Downloads\mysampleapp\MySampleApp\app\src\main\AndroidManifest.xml:100:4179-4226
+	android:theme
+		ADDED from C:\Users\user\Downloads\mysampleapp\MySampleApp\app\src\main\AndroidManifest.xml:100:4239-4282
+	android:name
+		ADDED from C:\Users\user\Downloads\mysampleapp\MySampleApp\app\src\main\AndroidManifest.xml:100:4134-4166
+activity#com.mysampleapp.ChangePasswordActivity
+ADDED from C:\Users\user\Downloads\mysampleapp\MySampleApp\app\src\main\AndroidManifest.xml:104:4294-59
+	android:label
+		ADDED from C:\Users\user\Downloads\mysampleapp\MySampleApp\app\src\main\AndroidManifest.xml:104:4367-4421
+	android:theme
+		ADDED from C:\Users\user\Downloads\mysampleapp\MySampleApp\app\src\main\AndroidManifest.xml:104:4434-4477
+	android:name
+		ADDED from C:\Users\user\Downloads\mysampleapp\MySampleApp\app\src\main\AndroidManifest.xml:104:4316-4354
+activity#com.mysampleapp.VerifyActivity
+ADDED from C:\Users\user\Downloads\mysampleapp\MySampleApp\app\src\main\AndroidManifest.xml:108:4489-59
+	android:label
+		ADDED from C:\Users\user\Downloads\mysampleapp\MySampleApp\app\src\main\AndroidManifest.xml:108:4554-4599
+	android:theme
+		ADDED from C:\Users\user\Downloads\mysampleapp\MySampleApp\app\src\main\AndroidManifest.xml:108:4612-4655
+	android:name
+		ADDED from C:\Users\user\Downloads\mysampleapp\MySampleApp\app\src\main\AndroidManifest.xml:108:4511-4541
+activity#com.mysampleapp.AddAttributeActivity
+ADDED from C:\Users\user\Downloads\mysampleapp\MySampleApp\app\src\main\AndroidManifest.xml:112:4667-59
+	android:label
+		ADDED from C:\Users\user\Downloads\mysampleapp\MySampleApp\app\src\main\AndroidManifest.xml:112:4738-4790
+	android:theme
+		ADDED from C:\Users\user\Downloads\mysampleapp\MySampleApp\app\src\main\AndroidManifest.xml:112:4803-4846
+	android:name
+		ADDED from C:\Users\user\Downloads\mysampleapp\MySampleApp\app\src\main\AndroidManifest.xml:112:4689-4725
+activity#com.mysampleapp.DeviceSettings
+ADDED from C:\Users\user\Downloads\mysampleapp\MySampleApp\app\src\main\AndroidManifest.xml:116:4858-59
+	android:label
+		ADDED from C:\Users\user\Downloads\mysampleapp\MySampleApp\app\src\main\AndroidManifest.xml:116:4923-4977
+	android:theme
+		ADDED from C:\Users\user\Downloads\mysampleapp\MySampleApp\app\src\main\AndroidManifest.xml:116:4990-5033
+	android:name
+		ADDED from C:\Users\user\Downloads\mysampleapp\MySampleApp\app\src\main\AndroidManifest.xml:116:4880-4910
+activity#com.mysampleapp.NewPassword
+ADDED from C:\Users\user\Downloads\mysampleapp\MySampleApp\app\src\main\AndroidManifest.xml:120:5045-59
+	android:label
+		ADDED from C:\Users\user\Downloads\mysampleapp\MySampleApp\app\src\main\AndroidManifest.xml:120:5107-5158
+	android:theme
+		ADDED from C:\Users\user\Downloads\mysampleapp\MySampleApp\app\src\main\AndroidManifest.xml:120:5171-5214
+	android:name
+		ADDED from C:\Users\user\Downloads\mysampleapp\MySampleApp\app\src\main\AndroidManifest.xml:120:5067-5094
+activity#com.mysampleapp.ChooseMFA
+ADDED from C:\Users\user\Downloads\mysampleapp\MySampleApp\app\src\main\AndroidManifest.xml:124:5226-59
+	android:label
+		ADDED from C:\Users\user\Downloads\mysampleapp\MySampleApp\app\src\main\AndroidManifest.xml:124:5286-5335
+	android:theme
+		ADDED from C:\Users\user\Downloads\mysampleapp\MySampleApp\app\src\main\AndroidManifest.xml:124:5348-5391
+	android:name
+		ADDED from C:\Users\user\Downloads\mysampleapp\MySampleApp\app\src\main\AndroidManifest.xml:124:5248-5273
+activity#com.mysampleapp.ItemListActivity
+ADDED from C:\Users\user\Downloads\mysampleapp\MySampleApp\app\src\main\AndroidManifest.xml:128:5403-56
+	android:label
+		ADDED from C:\Users\user\Downloads\mysampleapp\MySampleApp\app\src\main\AndroidManifest.xml:128:5470-5509
+	android:theme
+		ADDED from C:\Users\user\Downloads\mysampleapp\MySampleApp\app\src\main\AndroidManifest.xml:128:5522-5553
+	android:name
+		ADDED from C:\Users\user\Downloads\mysampleapp\MySampleApp\app\src\main\AndroidManifest.xml:128:5425-5457
+activity#com.mysampleapp.ItemDetailActivity
+ADDED from C:\Users\user\Downloads\mysampleapp\MySampleApp\app\src\main\AndroidManifest.xml:133:5574-137:19
+	android:parentActivityName
+		ADDED from C:\Users\user\Downloads\mysampleapp\MySampleApp\app\src\main\AndroidManifest.xml:133:5697-5743
+	android:label
+		ADDED from C:\Users\user\Downloads\mysampleapp\MySampleApp\app\src\main\AndroidManifest.xml:133:5643-5684
+	android:theme
+		ADDED from C:\Users\user\Downloads\mysampleapp\MySampleApp\app\src\main\AndroidManifest.xml:133:5756-5787
+	android:name
+		ADDED from C:\Users\user\Downloads\mysampleapp\MySampleApp\app\src\main\AndroidManifest.xml:133:5596-5630
+meta-data#android.support.PARENT_ACTIVITY
+ADDED from C:\Users\user\Downloads\mysampleapp\MySampleApp\app\src\main\AndroidManifest.xml:136:5801-68
+	android:value
+		ADDED from C:\Users\user\Downloads\mysampleapp\MySampleApp\app\src\main\AndroidManifest.xml:136:5891-5939
+	android:name
+		ADDED from C:\Users\user\Downloads\mysampleapp\MySampleApp\app\src\main\AndroidManifest.xml:136:5828-5874
+uses-sdk
+INJECTED from C:\Users\user\Downloads\mysampleapp\MySampleApp\app\src\main\AndroidManifest.xml reason: use-sdk injection requested
+INJECTED from C:\Users\user\Downloads\mysampleapp\MySampleApp\app\src\main\AndroidManifest.xml
+INJECTED from C:\Users\user\Downloads\mysampleapp\MySampleApp\app\src\main\AndroidManifest.xml
+MERGED from [com.android.support:design:27.1.1] C:\Users\user\.gradle\caches\transforms-1\files-1.1\design-27.1.1.aar\2c9246f7a94a03ea69d87aaaba0f9e6a\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:design:27.1.1] C:\Users\user\.gradle\caches\transforms-1\files-1.1\design-27.1.1.aar\2c9246f7a94a03ea69d87aaaba0f9e6a\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:appcompat-v7:27.1.1] C:\Users\user\.gradle\caches\transforms-1\files-1.1\appcompat-v7-27.1.1.aar\cf56077f2cc6d3c456fbf9a7dbdeb69d\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:appcompat-v7:27.1.1] C:\Users\user\.gradle\caches\transforms-1\files-1.1\appcompat-v7-27.1.1.aar\cf56077f2cc6d3c456fbf9a7dbdeb69d\AndroidManifest.xml:20:5-44
+MERGED from [com.amazonaws:aws-android-sdk-auth-ui:2.6.19] C:\Users\user\.gradle\caches\transforms-1\files-1.1\aws-android-sdk-auth-ui-2.6.19.aar\d0b493023f8c99c6764e8f3ec6872656\AndroidManifest.xml:10:1-69
+MERGED from [com.amazonaws:aws-android-sdk-auth-ui:2.6.19] C:\Users\user\.gradle\caches\transforms-1\files-1.1\aws-android-sdk-auth-ui-2.6.19.aar\d0b493023f8c99c6764e8f3ec6872656\AndroidManifest.xml:10:1-69
+MERGED from [com.amazonaws:aws-android-sdk-auth-userpools:2.6.19] C:\Users\user\.gradle\caches\transforms-1\files-1.1\aws-android-sdk-auth-userpools-2.6.19.aar\038035498ac709a67a146daf171f8658\AndroidManifest.xml:21:1-69
+MERGED from [com.amazonaws:aws-android-sdk-auth-userpools:2.6.19] C:\Users\user\.gradle\caches\transforms-1\files-1.1\aws-android-sdk-auth-userpools-2.6.19.aar\038035498ac709a67a146daf171f8658\AndroidManifest.xml:21:1-69
+MERGED from [com.amazonaws:aws-android-sdk-auth-core:2.6.19] C:\Users\user\.gradle\caches\transforms-1\files-1.1\aws-android-sdk-auth-core-2.6.19.aar\cdfe8e1bfa2e64f2ac2463a60d8ff69e\AndroidManifest.xml:4:1-69
+MERGED from [com.amazonaws:aws-android-sdk-auth-core:2.6.19] C:\Users\user\.gradle\caches\transforms-1\files-1.1\aws-android-sdk-auth-core-2.6.19.aar\cdfe8e1bfa2e64f2ac2463a60d8ff69e\AndroidManifest.xml:4:1-69
+MERGED from [com.android.support.constraint:constraint-layout:1.0.0-beta3] C:\Users\user\.gradle\caches\transforms-1\files-1.1\constraint-layout-1.0.0-beta3.aar\f8a56ed3d5b303c6e35364185ef61c55\AndroidManifest.xml:5:5-7:41
+MERGED from [com.android.support.constraint:constraint-layout:1.0.0-beta3] C:\Users\user\.gradle\caches\transforms-1\files-1.1\constraint-layout-1.0.0-beta3.aar\f8a56ed3d5b303c6e35364185ef61c55\AndroidManifest.xml:5:5-7:41
+MERGED from [com.facebook.android:facebook-android-sdk:4.12.0] C:\Users\user\.gradle\caches\transforms-1\files-1.1\facebook-android-sdk-4.12.0.aar\9efd1ec308273c01ad1c0324fae10d1d\AndroidManifest.xml:24:5-26:41
+MERGED from [com.facebook.android:facebook-android-sdk:4.12.0] C:\Users\user\.gradle\caches\transforms-1\files-1.1\facebook-android-sdk-4.12.0.aar\9efd1ec308273c01ad1c0324fae10d1d\AndroidManifest.xml:24:5-26:41
+MERGED from [com.android.support:multidex:1.0.0] C:\Users\user\.gradle\caches\transforms-1\files-1.1\multidex-1.0.0.aar\564d74900a5dcf298628c98baf2869dd\AndroidManifest.xml:18:5-42
+MERGED from [com.android.support:multidex:1.0.0] C:\Users\user\.gradle\caches\transforms-1\files-1.1\multidex-1.0.0.aar\564d74900a5dcf298628c98baf2869dd\AndroidManifest.xml:18:5-42
+MERGED from [com.android.support:customtabs:23.4.0] C:\Users\user\.gradle\caches\transforms-1\files-1.1\customtabs-23.4.0.aar\ebd5512ff8754678dfff1e148a739fd2\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:customtabs:23.4.0] C:\Users\user\.gradle\caches\transforms-1\files-1.1\customtabs-23.4.0.aar\ebd5512ff8754678dfff1e148a739fd2\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-v4:27.1.1] C:\Users\user\.gradle\caches\transforms-1\files-1.1\support-v4-27.1.1.aar\0e8ad38cae2a4c22b85565255f5b5246\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-v4:27.1.1] C:\Users\user\.gradle\caches\transforms-1\files-1.1\support-v4-27.1.1.aar\0e8ad38cae2a4c22b85565255f5b5246\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:recyclerview-v7:27.1.1] C:\Users\user\.gradle\caches\transforms-1\files-1.1\recyclerview-v7-27.1.1.aar\ef35e71757dd885ad567e53f194e7ff8\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:recyclerview-v7:27.1.1] C:\Users\user\.gradle\caches\transforms-1\files-1.1\recyclerview-v7-27.1.1.aar\ef35e71757dd885ad567e53f194e7ff8\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-fragment:27.1.1] C:\Users\user\.gradle\caches\transforms-1\files-1.1\support-fragment-27.1.1.aar\119c914806b860598ecde6cbb58397ad\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-fragment:27.1.1] C:\Users\user\.gradle\caches\transforms-1\files-1.1\support-fragment-27.1.1.aar\119c914806b860598ecde6cbb58397ad\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:animated-vector-drawable:27.1.1] C:\Users\user\.gradle\caches\transforms-1\files-1.1\animated-vector-drawable-27.1.1.aar\59e3af873cde5acf77e04f836ea32a6d\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:animated-vector-drawable:27.1.1] C:\Users\user\.gradle\caches\transforms-1\files-1.1\animated-vector-drawable-27.1.1.aar\59e3af873cde5acf77e04f836ea32a6d\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-core-ui:27.1.1] C:\Users\user\.gradle\caches\transforms-1\files-1.1\support-core-ui-27.1.1.aar\aaef6ac7fdc8b6d7bbd028989039b672\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-core-ui:27.1.1] C:\Users\user\.gradle\caches\transforms-1\files-1.1\support-core-ui-27.1.1.aar\aaef6ac7fdc8b6d7bbd028989039b672\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-core-utils:27.1.1] C:\Users\user\.gradle\caches\transforms-1\files-1.1\support-core-utils-27.1.1.aar\625f02b169c553c2881501a9c2606fdf\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-core-utils:27.1.1] C:\Users\user\.gradle\caches\transforms-1\files-1.1\support-core-utils-27.1.1.aar\625f02b169c553c2881501a9c2606fdf\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-vector-drawable:27.1.1] C:\Users\user\.gradle\caches\transforms-1\files-1.1\support-vector-drawable-27.1.1.aar\7a0a088a43b716dbd356f3741612829c\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-vector-drawable:27.1.1] C:\Users\user\.gradle\caches\transforms-1\files-1.1\support-vector-drawable-27.1.1.aar\7a0a088a43b716dbd356f3741612829c\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:transition:27.1.1] C:\Users\user\.gradle\caches\transforms-1\files-1.1\transition-27.1.1.aar\36738f64cc07e507231bf898b507bb6b\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:transition:27.1.1] C:\Users\user\.gradle\caches\transforms-1\files-1.1\transition-27.1.1.aar\36738f64cc07e507231bf898b507bb6b\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-media-compat:27.1.1] C:\Users\user\.gradle\caches\transforms-1\files-1.1\support-media-compat-27.1.1.aar\08b2eaf5ead399b3b08d785e4b921588\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-media-compat:27.1.1] C:\Users\user\.gradle\caches\transforms-1\files-1.1\support-media-compat-27.1.1.aar\08b2eaf5ead399b3b08d785e4b921588\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-compat:27.1.1] C:\Users\user\.gradle\caches\transforms-1\files-1.1\support-compat-27.1.1.aar\69c8a01e351b3cdf15ef7d6b38246683\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-compat:27.1.1] C:\Users\user\.gradle\caches\transforms-1\files-1.1\support-compat-27.1.1.aar\69c8a01e351b3cdf15ef7d6b38246683\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:cardview-v7:23.4.0] C:\Users\user\.gradle\caches\transforms-1\files-1.1\cardview-v7-23.4.0.aar\b853ac3c88ee064df21f5b6df46600cb\AndroidManifest.xml:20:5-43
+MERGED from [com.android.support:cardview-v7:23.4.0] C:\Users\user\.gradle\caches\transforms-1\files-1.1\cardview-v7-23.4.0.aar\b853ac3c88ee064df21f5b6df46600cb\AndroidManifest.xml:20:5-43
+MERGED from [android.arch.lifecycle:livedata-core:1.1.0] C:\Users\user\.gradle\caches\transforms-1\files-1.1\livedata-core-1.1.0.aar\a2bcb0e143df43c8d9dfb3742a8ce999\AndroidManifest.xml:20:5-44
+MERGED from [android.arch.lifecycle:livedata-core:1.1.0] C:\Users\user\.gradle\caches\transforms-1\files-1.1\livedata-core-1.1.0.aar\a2bcb0e143df43c8d9dfb3742a8ce999\AndroidManifest.xml:20:5-44
+MERGED from [android.arch.lifecycle:viewmodel:1.1.0] C:\Users\user\.gradle\caches\transforms-1\files-1.1\viewmodel-1.1.0.aar\9db486922b80844413df8a1b9da9c958\AndroidManifest.xml:20:5-44
+MERGED from [android.arch.lifecycle:viewmodel:1.1.0] C:\Users\user\.gradle\caches\transforms-1\files-1.1\viewmodel-1.1.0.aar\9db486922b80844413df8a1b9da9c958\AndroidManifest.xml:20:5-44
+MERGED from [android.arch.lifecycle:runtime:1.1.0] C:\Users\user\.gradle\caches\transforms-1\files-1.1\runtime-1.1.0.aar\c192f6414ff96e7728308781374746bc\AndroidManifest.xml:20:5-44
+MERGED from [android.arch.lifecycle:runtime:1.1.0] C:\Users\user\.gradle\caches\transforms-1\files-1.1\runtime-1.1.0.aar\c192f6414ff96e7728308781374746bc\AndroidManifest.xml:20:5-44
+MERGED from [android.arch.core:runtime:1.1.0] C:\Users\user\.gradle\caches\transforms-1\files-1.1\runtime-1.1.0.aar\aa525f0a46f204c73639797e7f7cee74\AndroidManifest.xml:20:5-44
+MERGED from [android.arch.core:runtime:1.1.0] C:\Users\user\.gradle\caches\transforms-1\files-1.1\runtime-1.1.0.aar\aa525f0a46f204c73639797e7f7cee74\AndroidManifest.xml:20:5-44
+INJECTED from C:\Users\user\Downloads\mysampleapp\MySampleApp\app\src\main\AndroidManifest.xml
+INJECTED from C:\Users\user\Downloads\mysampleapp\MySampleApp\app\src\main\AndroidManifest.xml
+	android:targetSdkVersion
+		INJECTED from C:\Users\user\Downloads\mysampleapp\MySampleApp\app\src\main\AndroidManifest.xml
+		ADDED from C:\Users\user\Downloads\mysampleapp\MySampleApp\app\src\main\AndroidManifest.xml
+		INJECTED from C:\Users\user\Downloads\mysampleapp\MySampleApp\app\src\main\AndroidManifest.xml
+	android:minSdkVersion
+		INJECTED from C:\Users\user\Downloads\mysampleapp\MySampleApp\app\src\main\AndroidManifest.xml
+		ADDED from C:\Users\user\Downloads\mysampleapp\MySampleApp\app\src\main\AndroidManifest.xml
+		INJECTED from C:\Users\user\Downloads\mysampleapp\MySampleApp\app\src\main\AndroidManifest.xml
+activity#com.amazonaws.mobile.auth.ui.SignInActivity
+ADDED from [com.amazonaws:aws-android-sdk-auth-ui:2.6.19] C:\Users\user\.gradle\caches\transforms-1\files-1.1\aws-android-sdk-auth-ui-2.6.19.aar\d0b493023f8c99c6764e8f3ec6872656\AndroidManifest.xml:8:9-234
+	android:screenOrientation
+		ADDED from [com.amazonaws:aws-android-sdk-auth-ui:2.6.19] C:\Users\user\.gradle\caches\transforms-1\files-1.1\aws-android-sdk-auth-ui-2.6.19.aar\d0b493023f8c99c6764e8f3ec6872656\AndroidManifest.xml:8:196-232
+	android:label
+		ADDED from [com.amazonaws:aws-android-sdk-auth-ui:2.6.19] C:\Users\user\.gradle\caches\transforms-1\files-1.1\aws-android-sdk-auth-ui-2.6.19.aar\d0b493023f8c99c6764e8f3ec6872656\AndroidManifest.xml:8:90-136
+	android:configChanges
+		ADDED from [com.amazonaws:aws-android-sdk-auth-ui:2.6.19] C:\Users\user\.gradle\caches\transforms-1\files-1.1\aws-android-sdk-auth-ui-2.6.19.aar\d0b493023f8c99c6764e8f3ec6872656\AndroidManifest.xml:8:19-89
+	android:name
+		ADDED from [com.amazonaws:aws-android-sdk-auth-ui:2.6.19] C:\Users\user\.gradle\caches\transforms-1\files-1.1\aws-android-sdk-auth-ui-2.6.19.aar\d0b493023f8c99c6764e8f3ec6872656\AndroidManifest.xml:8:137-195
+activity#com.amazonaws.mobile.auth.userpools.ForgotPasswordActivity
+ADDED from [com.amazonaws:aws-android-sdk-auth-userpools:2.6.19] C:\Users\user\.gradle\caches\transforms-1\files-1.1\aws-android-sdk-auth-userpools-2.6.19.aar\038035498ac709a67a146daf171f8658\AndroidManifest.xml:9:10-10:21
+	android:screenOrientation
+		ADDED from [com.amazonaws:aws-android-sdk-auth-userpools:2.6.19] C:\Users\user\.gradle\caches\transforms-1\files-1.1\aws-android-sdk-auth-userpools-2.6.19.aar\038035498ac709a67a146daf171f8658\AndroidManifest.xml:9:220-256
+	android:label
+		ADDED from [com.amazonaws:aws-android-sdk-auth-userpools:2.6.19] C:\Users\user\.gradle\caches\transforms-1\files-1.1\aws-android-sdk-auth-userpools-2.6.19.aar\038035498ac709a67a146daf171f8658\AndroidManifest.xml:9:91-145
+	android:configChanges
+		ADDED from [com.amazonaws:aws-android-sdk-auth-userpools:2.6.19] C:\Users\user\.gradle\caches\transforms-1\files-1.1\aws-android-sdk-auth-userpools-2.6.19.aar\038035498ac709a67a146daf171f8658\AndroidManifest.xml:9:20-90
+	android:name
+		ADDED from [com.amazonaws:aws-android-sdk-auth-userpools:2.6.19] C:\Users\user\.gradle\caches\transforms-1\files-1.1\aws-android-sdk-auth-userpools-2.6.19.aar\038035498ac709a67a146daf171f8658\AndroidManifest.xml:9:146-219
+activity#com.amazonaws.mobile.auth.userpools.SignUpActivity
+ADDED from [com.amazonaws:aws-android-sdk-auth-userpools:2.6.19] C:\Users\user\.gradle\caches\transforms-1\files-1.1\aws-android-sdk-auth-userpools-2.6.19.aar\038035498ac709a67a146daf171f8658\AndroidManifest.xml:12:10-13:21
+	android:screenOrientation
+		ADDED from [com.amazonaws:aws-android-sdk-auth-userpools:2.6.19] C:\Users\user\.gradle\caches\transforms-1\files-1.1\aws-android-sdk-auth-userpools-2.6.19.aar\038035498ac709a67a146daf171f8658\AndroidManifest.xml:12:204-240
+	android:label
+		ADDED from [com.amazonaws:aws-android-sdk-auth-userpools:2.6.19] C:\Users\user\.gradle\caches\transforms-1\files-1.1\aws-android-sdk-auth-userpools-2.6.19.aar\038035498ac709a67a146daf171f8658\AndroidManifest.xml:12:91-137
+	android:configChanges
+		ADDED from [com.amazonaws:aws-android-sdk-auth-userpools:2.6.19] C:\Users\user\.gradle\caches\transforms-1\files-1.1\aws-android-sdk-auth-userpools-2.6.19.aar\038035498ac709a67a146daf171f8658\AndroidManifest.xml:12:20-90
+	android:name
+		ADDED from [com.amazonaws:aws-android-sdk-auth-userpools:2.6.19] C:\Users\user\.gradle\caches\transforms-1\files-1.1\aws-android-sdk-auth-userpools-2.6.19.aar\038035498ac709a67a146daf171f8658\AndroidManifest.xml:12:138-203
+activity#com.amazonaws.mobile.auth.userpools.MFAActivity
+ADDED from [com.amazonaws:aws-android-sdk-auth-userpools:2.6.19] C:\Users\user\.gradle\caches\transforms-1\files-1.1\aws-android-sdk-auth-userpools-2.6.19.aar\038035498ac709a67a146daf171f8658\AndroidManifest.xml:15:10-16:21
+	android:screenOrientation
+		ADDED from [com.amazonaws:aws-android-sdk-auth-userpools:2.6.19] C:\Users\user\.gradle\caches\transforms-1\files-1.1\aws-android-sdk-auth-userpools-2.6.19.aar\038035498ac709a67a146daf171f8658\AndroidManifest.xml:15:197-233
+	android:label
+		ADDED from [com.amazonaws:aws-android-sdk-auth-userpools:2.6.19] C:\Users\user\.gradle\caches\transforms-1\files-1.1\aws-android-sdk-auth-userpools-2.6.19.aar\038035498ac709a67a146daf171f8658\AndroidManifest.xml:15:91-133
+	android:configChanges
+		ADDED from [com.amazonaws:aws-android-sdk-auth-userpools:2.6.19] C:\Users\user\.gradle\caches\transforms-1\files-1.1\aws-android-sdk-auth-userpools-2.6.19.aar\038035498ac709a67a146daf171f8658\AndroidManifest.xml:15:20-90
+	android:name
+		ADDED from [com.amazonaws:aws-android-sdk-auth-userpools:2.6.19] C:\Users\user\.gradle\caches\transforms-1\files-1.1\aws-android-sdk-auth-userpools-2.6.19.aar\038035498ac709a67a146daf171f8658\AndroidManifest.xml:15:134-196
+activity#com.amazonaws.mobile.auth.userpools.SignUpConfirmActivity
+ADDED from [com.amazonaws:aws-android-sdk-auth-userpools:2.6.19] C:\Users\user\.gradle\caches\transforms-1\files-1.1\aws-android-sdk-auth-userpools-2.6.19.aar\038035498ac709a67a146daf171f8658\AndroidManifest.xml:18:10-19:21
+	android:screenOrientation
+		ADDED from [com.amazonaws:aws-android-sdk-auth-userpools:2.6.19] C:\Users\user\.gradle\caches\transforms-1\files-1.1\aws-android-sdk-auth-userpools-2.6.19.aar\038035498ac709a67a146daf171f8658\AndroidManifest.xml:18:219-255
+	android:label
+		ADDED from [com.amazonaws:aws-android-sdk-auth-userpools:2.6.19] C:\Users\user\.gradle\caches\transforms-1\files-1.1\aws-android-sdk-auth-userpools-2.6.19.aar\038035498ac709a67a146daf171f8658\AndroidManifest.xml:18:91-145
+	android:configChanges
+		ADDED from [com.amazonaws:aws-android-sdk-auth-userpools:2.6.19] C:\Users\user\.gradle\caches\transforms-1\files-1.1\aws-android-sdk-auth-userpools-2.6.19.aar\038035498ac709a67a146daf171f8658\AndroidManifest.xml:18:20-90
+	android:name
+		ADDED from [com.amazonaws:aws-android-sdk-auth-userpools:2.6.19] C:\Users\user\.gradle\caches\transforms-1\files-1.1\aws-android-sdk-auth-userpools-2.6.19.aar\038035498ac709a67a146daf171f8658\AndroidManifest.xml:18:146-218
+activity#com.facebook.FacebookActivity
+ADDED from [com.facebook.android:facebook-android-sdk:4.12.0] C:\Users\user\.gradle\caches\transforms-1\files-1.1\facebook-android-sdk-4.12.0.aar\9efd1ec308273c01ad1c0324fae10d1d\AndroidManifest.xml:29:9-32:75
+	android:configChanges
+		ADDED from [com.facebook.android:facebook-android-sdk:4.12.0] C:\Users\user\.gradle\caches\transforms-1\files-1.1\facebook-android-sdk-4.12.0.aar\9efd1ec308273c01ad1c0324fae10d1d\AndroidManifest.xml:31:13-96
+	android:theme
+		ADDED from [com.facebook.android:facebook-android-sdk:4.12.0] C:\Users\user\.gradle\caches\transforms-1\files-1.1\facebook-android-sdk-4.12.0.aar\9efd1ec308273c01ad1c0324fae10d1d\AndroidManifest.xml:32:13-72
+	android:name
+		ADDED from [com.facebook.android:facebook-android-sdk:4.12.0] C:\Users\user\.gradle\caches\transforms-1\files-1.1\facebook-android-sdk-4.12.0.aar\9efd1ec308273c01ad1c0324fae10d1d\AndroidManifest.xml:30:13-57
+activity#com.facebook.CustomTabActivity
+ADDED from [com.facebook.android:facebook-android-sdk:4.12.0] C:\Users\user\.gradle\caches\transforms-1\files-1.1\facebook-android-sdk-4.12.0.aar\9efd1ec308273c01ad1c0324fae10d1d\AndroidManifest.xml:33:9-36:20
+	android:exported
+		ADDED from [com.facebook.android:facebook-android-sdk:4.12.0] C:\Users\user\.gradle\caches\transforms-1\files-1.1\facebook-android-sdk-4.12.0.aar\9efd1ec308273c01ad1c0324fae10d1d\AndroidManifest.xml:35:13-36
+	android:name
+		ADDED from [com.facebook.android:facebook-android-sdk:4.12.0] C:\Users\user\.gradle\caches\transforms-1\files-1.1\facebook-android-sdk-4.12.0.aar\9efd1ec308273c01ad1c0324fae10d1d\AndroidManifest.xml:34:13-58
